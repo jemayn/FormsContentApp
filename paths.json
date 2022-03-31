@@ -1,0 +1,5 @@
+{
+  "library": "src/FormsContentApp",
+  "pluginFolder": "FormsContentApp",
+  "site": ".website"
+}
